@@ -1,2 +1,2 @@
-# KaggleComp
-Code&amp;Visualization of Kaggle Competitions
+# Model&Visualization
+Statisical or machine learning models and visualization of datasets.
